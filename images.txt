@@ -1,1 +1,1 @@
-wordpress:4.8-apache
+redis:5.0.7
