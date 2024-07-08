@@ -1,1 +1,1 @@
-bladex/sentinel-dashboard:1.6.3
+jenkins/jenkins:2.361.4
