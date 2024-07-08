@@ -1,1 +1,1 @@
-maven:3.6.3-jdk-11
+jenkins/jenkins:2.426.2-lts
