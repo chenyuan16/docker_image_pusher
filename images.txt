@@ -1,1 +1,1 @@
-jenkins/jenkins:2.361.4
+jenkins/jenkins:lts
