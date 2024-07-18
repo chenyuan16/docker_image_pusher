@@ -1,1 +1,1 @@
-openjdk:11
+sonarqube：10.3.0
