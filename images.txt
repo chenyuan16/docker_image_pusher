@@ -1,1 +1,1 @@
-sonarqube：10.3.0
+sonarqube:10.6.0-community
